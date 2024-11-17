@@ -34,13 +34,12 @@ The project is organized as follows:
 
 /cypress
 ├── /integration
-│   ├── login.spec.js                 # Sign In & Authentication tests
-│   ├── postTweet.spec.js             # Tweet Functionality tests
-│   ├── profileVerification.spec.js   # Profile Management tests
-│   ├── tweetInteraction.spec.js      # Tweet Interaction (like, retweet, delete) tests
-│   ├── searchFunctionality.spec.js   # Search Functionality tests
-│   ├── crossBrowserTesting.spec.js   # Cross-Browser testing for different browsers
-│   ├── footerLinks.spec.js           # Footer Links tests
-│   ├── performanceTesting.spec.js    # Performance testing (page load times, response time)
-│   └── securityTesting.spec.js       # Security tests (session timeout, input validation)
-
+│   ├── login.spec.js                  # Sign In & Authentication tests
+│   ├── postTweet.spec.js              # Tweet Functionality tests
+│   ├── profileVerification.spec.js    # Profile Management tests
+│   ├── tweetInteraction.spec.js       # Tweet Interaction (like, retweet, delete) tests
+│   ├── searchFunctionality.spec.js    # Search Functionality tests
+│   ├── crossBrowserTesting.spec.js    # Cross-Browser testing for different browsers
+│   ├── footerLinks.spec.js            # Footer Links tests
+│   ├── performanceTesting.spec.js     # Performance testing (page load times, response time)
+│   └── securityTesting.spec.js        # Security tests (session timeout, input validation)
