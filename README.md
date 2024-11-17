@@ -26,5 +26,5 @@ The following documents are included in this project:
    - A report containing the results of the test execution, including passed, failed, and skipped tests.
 
 5. **Cypress Automation Scripts**  
-   - Automated scripts written in Cypress using the Page Object Model to perform the tests.
+   - Automated scripts written in Cypress.
 
