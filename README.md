@@ -26,19 +26,4 @@ The following documents are included in this project:
 
 The project is organized as follows:
 
-```plaintext
-cypress/
-  └── e2e/
-      ├── tests/
-      │     ├── loginTests.spec.js        # Test file for login
-      │     ├── navbarTests.spec.js       # Test file for navbar
-      │     ├── footerTests.spec.js       # Test file for footer
-      │     ├── profileTests.spec.js      # Test file for profile
-      │
-      └── pages/
-            ├── LoginPage.js              # POM file for login page
-            ├── NavbarPage.js             # POM file for navbar
-            ├── FooterPage.js             # POM file for footer
-            ├── ProfilePage.js            # POM file for profile
-
-
+![image](https://github.com/user-attachments/assets/63ae30ee-f6f2-49a9-835e-2ea68495591b)
