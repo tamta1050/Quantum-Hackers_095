@@ -44,4 +44,3 @@ The project is organized as follows:
 │   ├── performanceTesting.spec.js    # Performance testing (page load times, response time)
 │   └── securityTesting.spec.js       # Security tests (session timeout, input validation)
 
-
