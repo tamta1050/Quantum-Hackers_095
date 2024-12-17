@@ -1,7 +1,7 @@
 # Project Name: Twitter Automation Testing
 
 ## Overview
-This project is designed to automate the testing of a Twitter-like application using Cypress and follows the **Page Object Model (POM)** methodology. It includes test cases for logging in, interacting with the navbar, footer, profile, and other key elements.
+This project automates the testing of Twitter's key features using Cypress. The goal is to ensure that essential functionalities of the Twitter application, such as user login, profile management, tweet creation, navbar navigation, and footer links, work correctly. By automating these tests, we ensure the app behaves as expected and streamline the testing process for future updates.
 
 ## Documents Overview
 
